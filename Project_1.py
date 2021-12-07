@@ -138,6 +138,7 @@ for a,b in result:
         f"{a:>3}|{(stars * b):<18}|{b:<3}",
         sep="\n")
 
+# just testing:
 # for index, dvojice in enumerate(vysledky,1):
 #     print(
 #         ODDELOVAC,
